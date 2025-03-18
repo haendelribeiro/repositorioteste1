@@ -16,3 +16,9 @@ Questâo 05
 Questâo 06
 
 Questâo 10
+
+Questâo 11
+
+Questâo 12
+
+comentátio dos comandos
