@@ -1,5 +1,5 @@
 Faculdade Uniesp
-Curso Ciências da Computação
+Curso: Introdução a Programação
 Disciplina Tópicos Essenciais em Programação
 Nome: Haendel Correia Ribeiro
 
@@ -9,4 +9,10 @@ Questão 01
 
 Questâo 02
 
-Questão 03
+Questâo 04
+
+Questâo 05
+
+Questâo 06
+
+Questâo 10
